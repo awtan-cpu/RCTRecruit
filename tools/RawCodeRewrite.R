@@ -200,10 +200,4 @@ for (j in 1L:6L) {
 mtext("Weeks",    1, outer = TRUE, font = 2)
 mtext("Subjects", 2, outer = TRUE, las = 0, font = 2)
 
-
 do.call(par, oldPar)
-
-
-
-
-
