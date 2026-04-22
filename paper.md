@@ -8,14 +8,14 @@ tags:
   - resampling
   - biostatistics
 authors:
-  - name: Chris K. Kurinec
-    affiliation: 1
   - name: Alejandro Villasante-Tezanos
     affiliation: 1
     corresponding: true
-  - name: Ioannis Malagaris
+  - name: Chris K. Kurinec
     affiliation: 1
   - name: Alex Tan
+    affiliation: 1
+  - name: Ioannis Malagaris
     affiliation: 1
   - name: Yong-Fang Kuo
     affiliation: 1
